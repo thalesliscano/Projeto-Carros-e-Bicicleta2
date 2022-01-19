@@ -108,3 +108,4 @@ a {
 
 } */
 
+/* Aqui eu estava tentando fazer uma tarefa, aonde tinha que replicar oque o professor fez, foi umas das primeiras vezes que usei tudo que sabia para fazer algo no html e css. *\
