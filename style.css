@@ -1,0 +1,33 @@
+body {
+  font-family: arial;
+  margin: 50px;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  color: white;
+  margin: 0px;
+}
+p {
+  color: #b2b2b2;
+}
+span {
+  color: #febe01;
+}
+a {
+  color: #332100;
+  background: #febe01;
+  display: inline-block;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.item {
+  background: #111;
+  border-radius: 4px;
+  margin: 20px;
+  padding: 30px;
+}
+/*Diminuí muito as linhas, tentando aplicar abstração*\
